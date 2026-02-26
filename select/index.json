@@ -1,0 +1,160 @@
+{
+  "version": 1,
+  "base_track": "Can't Help Falling in Love",
+  "base_artist": "Elvis Presley",
+  "createdAt": "2026-02-26T05:37:16.519438Z",
+  "candidates": [
+    {
+      "id": "lrclib_1",
+      "source": "lrclib",
+      "title": "Can't Help Falling in Love",
+      "artist": "Cameo",
+      "has_synced": true,
+      "path": "select/01_Can't_Help_Falling_in_Love_Cameo.lrc"
+    },
+    {
+      "id": "lrclib_2",
+      "source": "lrclib",
+      "title": "Can't Help Falling In Love",
+      "artist": "Pentatonix",
+      "has_synced": true,
+      "path": "select/02_Can't_Help_Falling_In_Love_Pentatonix.lrc"
+    },
+    {
+      "id": "lrclib_3",
+      "source": "lrclib",
+      "title": "Can’t Help Falling In Love",
+      "artist": "Elvis Presley",
+      "has_synced": true,
+      "path": "select/03_Can’t_Help_Falling_In_Love_Elvis_Presley.lrc"
+    },
+    {
+      "id": "lrclib_4",
+      "source": "lrclib",
+      "title": "Can't Help Falling In Love",
+      "artist": "Elvis Presley",
+      "has_synced": true,
+      "path": "select/04_Can't_Help_Falling_In_Love_Elvis_Presley.lrc"
+    },
+    {
+      "id": "lrclib_5",
+      "source": "lrclib",
+      "title": "Can't help falling in love",
+      "artist": "Nomy",
+      "has_synced": true,
+      "path": "select/05_Can't_help_falling_in_love_Nomy.lrc"
+    },
+    {
+      "id": "lrclib_6",
+      "source": "lrclib",
+      "title": "Can't Help Falling In Love",
+      "artist": "UB40",
+      "has_synced": true,
+      "path": "select/06_Can't_Help_Falling_In_Love_UB40.lrc"
+    },
+    {
+      "id": "lrclib_7",
+      "source": "lrclib",
+      "title": "Can’t Help Falling in Love",
+      "artist": "Baccara",
+      "has_synced": false,
+      "path": "select/07_Can’t_Help_Falling_in_Love_Baccara.txt"
+    },
+    {
+      "id": "lrclib_8",
+      "source": "lrclib",
+      "title": "Can’t Help Falling in Love",
+      "artist": "Foster",
+      "has_synced": false,
+      "path": "select/08_Can’t_Help_Falling_in_Love_Foster.txt"
+    },
+    {
+      "id": "lrclib_9",
+      "source": "lrclib",
+      "title": "Can't Help Falling In Love",
+      "artist": "Ateens",
+      "has_synced": true,
+      "path": "select/09_Can't_Help_Falling_In_Love_Ateens.lrc"
+    },
+    {
+      "id": "lrclib_10",
+      "source": "lrclib",
+      "title": "Can't Help Falling in Love",
+      "artist": "F4",
+      "has_synced": true,
+      "path": "select/10_Can't_Help_Falling_in_Love_F4.lrc"
+    },
+    {
+      "id": "lrclib_11",
+      "source": "lrclib",
+      "title": "Can’t Help Falling in Love",
+      "artist": "Loona",
+      "has_synced": false,
+      "path": "select/11_Can’t_Help_Falling_in_Love_Loona.txt"
+    },
+    {
+      "id": "lrclib_12",
+      "source": "lrclib",
+      "title": "can't help falling in love",
+      "artist": "ESO",
+      "has_synced": true,
+      "path": "select/12_can't_help_falling_in_love_ESO.lrc"
+    },
+    {
+      "id": "lrclib_13",
+      "source": "lrclib",
+      "title": "Can't Help Falling In Love",
+      "artist": "Verschiedene",
+      "has_synced": true,
+      "path": "select/13_Can't_Help_Falling_In_Love_Verschiedene.lrc"
+    },
+    {
+      "id": "lrclib_14",
+      "source": "lrclib",
+      "title": "Can't help falling in Love",
+      "artist": "VokusPokus",
+      "has_synced": true,
+      "path": "select/14_Can't_help_falling_in_Love_VokusPokus.lrc"
+    },
+    {
+      "id": "lrclib_15",
+      "source": "lrclib",
+      "title": "Cant Help Falling In Love",
+      "artist": "UB40",
+      "has_synced": true,
+      "path": "select/15_Cant_Help_Falling_In_Love_UB40.lrc"
+    },
+    {
+      "id": "lrclib_16",
+      "source": "lrclib",
+      "title": "Can't Help Falling In Love",
+      "artist": "U2",
+      "has_synced": false,
+      "path": "select/16_Can't_Help_Falling_In_Love_U2.txt"
+    },
+    {
+      "id": "lrclib_17",
+      "source": "lrclib",
+      "title": "Can’t Help Falling in Love",
+      "artist": "Baccara",
+      "has_synced": true,
+      "path": "select/17_Can’t_Help_Falling_in_Love_Baccara.lrc"
+    },
+    {
+      "id": "lrclib_18",
+      "source": "lrclib",
+      "title": "Can't Help Falling In Love",
+      "artist": "Ren",
+      "has_synced": true,
+      "path": "select/18_Can't_Help_Falling_In_Love_Ren.lrc"
+    },
+    {
+      "id": "petitlyrics_1",
+      "source": "petitlyrics",
+      "title": "Can't Help Falling In Love",
+      "artist": "Elvis Presley",
+      "has_synced": false,
+      "path": "select/pl_01_Can't_Help_Falling_In_Love_Elvis_Presley.txt"
+    }
+  ]
+}
