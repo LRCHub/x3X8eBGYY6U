@@ -1,0 +1,25 @@
+# Elvis Presley – Can't Help Falling in Love
+
+> **歌詞登録ステータス：同期歌詞あり**
+
+```lrc
+[00:01.24] Wise men say only fools rush in
+[00:13.61] But I can't help falling in love with you
+[00:27.75] Shall I stay? Would it be a sin
+[00:41.10] If I can't help falling in love with you?
+[01:01.60] 
+[00:56.38] Like a river flows surely to the sea
+[01:04.27] Darling, so it goes
+[01:08.08] Some things are meant to be
+[01:21.58] 
+[01:15.54] Take my hand, take my whole life too
+[01:29.68] But I can't help falling in love with you
+[01:50.18] 
+[01:43.92] Oh, like a river flows surely to the sea
+[01:52.55] Darling, so it goes
+[01:56.16] Some things are meant to be
+[02:09.66] 
+[02:03.51] Take my hand, take my whole life too
+[02:17.25] For I can't help falling in love with you
+[02:33.85] But I can't help falling in love with you
+```
